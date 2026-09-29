@@ -2,7 +2,7 @@
 
 ## Thông tin sinh viên
 
-* **Họ và tên:** Phạm Lê Duy Bfnh
+* **Họ và tên:** Phạm Lê Duy Bình
 * **Mã sinh viên:** 23T1020633
 * **Lớp:** TIN4063
 
